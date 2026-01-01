@@ -11,7 +11,7 @@ import Nav from "@/components/Nav.vue";
     opacity: 80%;
     background-blend-mode: normal;
     background-size: 25ww auto;
-    background-image: url('/src/assets/images/background_noisy.webp');
+    background-image: url('/assets/images/background_noisy.webp');
     position: fixed;
     top: 0;
     left: 0;

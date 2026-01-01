@@ -14,8 +14,8 @@
 
       <project-card
           link="https://wikimaps.gg"
-          image-path="/src/assets/images/projects/wikimaps.png"
-          hover-image-path="/src/assets/images/projects/wikimaps-hover.png">
+          image-path="/assets/images/projects/wikimaps.png"
+          hover-image-path="/assets/images/projects/wikimaps-hover.png">
         <template #sub-title>
           Full Stack Developer 2025
         </template>
@@ -47,8 +47,8 @@
 
         <project-card
             link="https://www.diablotrade.gg"
-          image-path="/src/assets/images/projects/diablotrade.png"
-          hover-image-path="/src/assets/images/projects/diablotrade-hover.png">
+          image-path="/assets/images/projects/diablotrade.png"
+          hover-image-path="/assets/images/projects/diablotrade-hover.png">
         <template #sub-title>
           Full Stack Developer 2023
         </template>
@@ -83,7 +83,7 @@
 
       <project-card
           link="https://www.agedcareguide.com.au/"
-          image-path="src/assets/images/projects/acg.png"
+          image-path="/assets/images/projects/acg.png"
       >
         <template #sub-title>
           Full Stack Developer
@@ -112,7 +112,7 @@
 
       <project-card
           link="https://www.disabilitysupportguide.com.au/"
-          image-path="src/assets/images/projects/dsg.png">
+          image-path="/assets/images/projects/dsg.png">
         <template #sub-title>
           Full Stack Developer
         </template>
@@ -170,8 +170,8 @@
 <!--      </project-card>-->
 
 
-      <project-card link="https://www.readysteadygokids.com.au/" image-path="src/assets/images/projects/readysteadygokids.png"
-                    hover-image-path="/src/assets/images/projects/readysteadygokids-hover.png">
+      <project-card link="https://www.readysteadygokids.com.au/" image-path="/assets/images/projects/readysteadygokids.png"
+                    hover-image-path="/assets/images/projects/readysteadygokids-hover.png">
         <template #sub-title>
           Front End Developer 2021
         </template>
@@ -192,7 +192,7 @@
 
 
 
-      <project-card link="https://www.toribashtextures.com" image-path="src/assets/images/projects/toribashtextures.png">
+      <project-card link="https://www.toribashtextures.com" image-path="/assets/images/projects/toribashtextures.png">
         <template #sub-title>
           Full Stack Developer
         </template>

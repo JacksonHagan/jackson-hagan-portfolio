@@ -82,11 +82,11 @@ import {
 
 import { TweenMax, Expo } from "gsap";
 
-import { vertex, fragment } from "/src/assets/js/shaders";
+import { vertex, fragment } from "../../public/assets/js/shaders";
 
-let disp = '/src/assets/images/disp.jpg';
-let imagePath = '/src/assets/images/projects/diablotrade.png';
-let hoverImagePath = '/src/assets/images/projects/diablotrade-hover.png';
+let disp = '/assets/images/disp.jpg';
+let imagePath = '/assets/images/projects/diablotrade.png';
+let hoverImagePath = '/assets/images/projects/diablotrade-hover.png';
 
 
 export default {

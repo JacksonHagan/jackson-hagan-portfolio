@@ -19,12 +19,11 @@
   right: 0;
   bottom: 0;
   z-index: 1;
-  background-image: url('src/assets/images/grid.svg');
+  background-image: url('/assets/images/grid.svg');
   background-position: 50% 0;
   background-size: 400px 200px;
   /* background-size: 71px 35.5px;  smaller bg grid */
   background-repeat: repeat;
-
 }
 
 .home-hero-bg-wrap::before {
